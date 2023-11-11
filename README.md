@@ -11,5 +11,11 @@ This automation who login into your ssh server with telegram bot
 6. Copy this command
 ```bash install.sh```
 7. If bot sended message ```succsess``` that's mean it's work. You can login your ssh than that's it.
-8. Enjoy 
-   
+8. Enjoy
+
+# Edit chat id and bot token
+1. File configuration is here
+```/usr/bin/telegramnotif```
+2. Using nano to edit
+```nano /usr/bin/telegramnotif```
+3. Paste your new chat id and bot token
