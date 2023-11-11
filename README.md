@@ -7,6 +7,6 @@ This automation who login into your ssh server with telegram bot
 3. Found your telegram ID here
 4. Copy this command in directory file has been downloaded
 ```bash install.sh```
-5. If bot send your message ```succses``` that's mean it's work. You can login your ssh than that's it.
+5. If bot sended message ```succsess``` that's mean it's work. You can login your ssh than that's it.
 6. Enjoy 
    
