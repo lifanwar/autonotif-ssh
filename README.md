@@ -10,7 +10,7 @@ This automation who login into your ssh server with telegram bot
 5. Create bot token in bot father [here](https://t.me/BotFather)
 6. Install script using this command
 ```bash install.sh```
-7. If bot sended message ```succsess connected``` that's mean it's work. You can login your ssh than that's it.
+7. If bot sended message ```succsess connected``` that's mean it's work. You can try login your ssh than that's it.
 8. Enjoy
 
 # Edit chat id and bot token
