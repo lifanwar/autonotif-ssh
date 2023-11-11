@@ -3,7 +3,7 @@ This automation who login into your ssh server with telegram bot
 
 # configuration
 1. Download file
-```git clone https://```
+```git clone https://github.com/lifanwar/autonotif-ssh```
 2. Open file ```cd autonotif-ssh```
 3. Edit chat id and bot token in telegramnotif.sh
 4. Found your chat ID [here](https://github.com/user/repo/blob/branch/other_file.md)
