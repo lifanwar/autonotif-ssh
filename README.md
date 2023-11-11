@@ -16,6 +16,6 @@ This automation who login into your ssh server with telegram bot
 # Edit chat id and bot token
 1. File configuration is here
 ```/usr/bin/telegramnotif```
-2. Using nano to edit
-```nano /usr/bin/telegramnotif```
+2. Using nano and premission root to edit
+```sudo nano /usr/bin/telegramnotif```
 3. Paste your new chat id and bot token
