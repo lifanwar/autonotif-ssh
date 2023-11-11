@@ -2,7 +2,7 @@
 This automation who login into your ssh server with telegram bot
 
 # configuration
-1. Edit chat id and bot token in telegram.sh
+1. Edit chat id and bot token in telegramnotif.sh
 2. Found your chat ID here
 3. Found your telegram ID here
 4. Copy this command in directory file has been downloaded
