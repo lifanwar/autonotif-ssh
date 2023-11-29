@@ -5,6 +5,10 @@ if ! command -v geoiplookup &> /dev/null; then
     echo "Installing geoiplookup..."
     sudo apt install geoip-bin
 fi
+if ! command -v curl &> /dev/null; then
+    echo "Installing curl..."
+    sudo apt install curl
+fi
 
 # execution telegram.sh file
 chmod +x telegramnotif.sh
@@ -13,7 +17,7 @@ chmod +x telegramnotif.sh
 sleep 1
 
 # move telegram to executable
-sudo mv telegram.sh /usr/bin/telegramnotif
+sudo mv telegramnotif.sh /usr/bin/telegramnotif
 
 # make telegram executable as root 
 sudo chown root:root /usr/bin/telegramnotif
